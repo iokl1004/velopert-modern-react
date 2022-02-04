@@ -7,6 +7,3 @@
 * npm version : 8.3.0
 * React version : 17.0.2
 * 벨로퍼트님의 강의자료 link : [강의자료 보러가기!](https://react.vlpt.us/, "렛츠 고!")
-* * *
-
-2022-02-04(금)
